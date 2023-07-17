@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "module24"
+version = "0.1.0"
+description = ""
+authors = ["Strategs <127782103+Strategs@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
